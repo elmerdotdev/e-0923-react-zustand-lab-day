@@ -7,7 +7,7 @@ Goal: Recreate the todo app from the demo video [here](https://drive.google.com/
 1. Accept the assignment and create a `dev` branch.
 2. Clone the repository and switch to the `dev` branch using `git switch dev`.
 3. Create a new React project:
-   - Run `npx create-vite@latest zustand-lab --template react`.
+   - Run `npm create vite@latest zustand-lab --template react`.
    - Navigate to the project directory with `cd zustand-lab`.
    - Install the node packages with `npm install`.
 4. Install Zustand by running `npm install zustand`.
