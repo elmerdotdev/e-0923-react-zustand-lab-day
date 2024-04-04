@@ -1,5 +1,6 @@
-# Goal
-Recreate the todo app from the demo video [here](https://drive.google.com/file/d/1Si4WeBPN6VkHaRy3HALL-YzBo6h3aRmz/view?usp=sharing)
+# E-0923 React Lab Day 3 (To Do App - Zustand)
+
+Goal: Recreate the todo app from the demo video [here](https://drive.google.com/file/d/1Si4WeBPN6VkHaRy3HALL-YzBo6h3aRmz/view?usp=sharing)
 
 ## Instructions
 
